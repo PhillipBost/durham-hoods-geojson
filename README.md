@@ -9,10 +9,10 @@ The following neighborhoods were recently added/updated:
 |---------------------------------|:-------------:|:-------------:|
 |College View                     |11/23/2014     |Added          |
 |North Carolina Central University|11/23/2014     |Borders Altered|
+|Brookstown                       |11/22/2014     |Added          |
 |Bragtown                         |11/22/2014     |Added          |
 |Northgate Park                   |11/22/2014     |Borders Altered|
 |Colonial Village                 |11/22/2014     |Borders Altered|
-|Brookstown                       |11/22/2014     |Added          |
 |Rougemont                        |11/20/2014     |Added          |
 |Bahama                           |11/20/2014     |Added          |
 |Arrowhead                        |11/19/2014     |Added          |
