@@ -44,25 +44,20 @@ The following neighborhoods were recently added/updated:
 |North Carolina Central University|               |              |
 |College View           |               |              |
 |Hope Valley Downs      |               |              |
-
-
-<ul>
-<li>Hope Valley Forest</li>
-<li>Surrey Green</li>
-<li>Hope Valley Farms</li>
-<li>Emorywood Estates</li>
-<li>Wynterfield</li>
-<li>Rustica Oaks</li>
-<li>Lochside</li>
-<li>Pagehurst</li>
-<li>Bradbury Trace</li>
-<li>Bradbury Glen</li>
-<li>Downing Creek</li>
-<li>Abron Drive</li>
-<li>The Hills at Southpoint</li>
-<li>Colvard Farms</li>
-<li>Lake Park</li>
-<li>Wellington Forest</li>
-<li>Homeplace II</li>
-<li>Belcrest</li>
-</ul>
+|Hope Valley Forest     |               |              |
+|Surrey Green           |               |              |
+|Emorywood Estates      |               |              |
+|Wynterfield            |               |              |
+|Rustica Oaks           |               |              |
+|Lochside               |               |              |
+|Pagehurst              |               |              |
+|Bradbury Trace         |               |              |
+|Bradbury Glen          |               |              |
+|Downing Creek          |               |              |
+|Abron Drive            |               |              |
+|The Hills at Southpoint|               |              |
+|Colvard Farms          |               |              |
+|Lake Park              |               |              |
+|Wellington Forest      |               |              |
+|Homeplace II           |               |              |
+|Belcrest               |               |              |
