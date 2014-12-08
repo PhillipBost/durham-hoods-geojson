@@ -9,19 +9,19 @@ A map of Durham, North Carolina neighborhoods mapped out in GeoJSON.
 
 The following neighborhoods were recently added/updated:
 
-Neighborhood  | Date Changed  | Description  
-------------- |:-------------:| ------------:
-Rougemont     |               | Added        
-Bahama        |               | Added        
-Treyburn      |               | Added        
+|Neighborhood        | Date Changed  | Description  |
+|--------------------|:-------------:|:------------:|
+|Rougemont           |               | Added        |
+|Bahama              |               | Added        |
+|Treyburn            |               | Added        |
+|Country Club Heights|               | Added        |
+|Heather Glen        |               | Added        |
+|Willowhaven         |               | Added        |
+|Greymoss            |               | Added        |
+|Lattamoor           |               | Added        |
+|Omah Street         |               | Added        |
 
 <ul>
-<li>Country Club Heights</li>
-<li>Heather Glen</li>
-<li>Willowhaven</li>
-<li>Greymoss</li>
-<li>Lattamoor</li>
-<li>Omah Street</li>
 <li>Northgate</li>
 <li>Colonial Village</li>
 <li>Bragtown</li>
