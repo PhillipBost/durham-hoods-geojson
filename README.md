@@ -10,42 +10,43 @@ The following neighborhoods were recently added/updated:
 |Rougemont              |               | Added        |
 |Bahama                 |               | Added        |
 |Treyburn               |               | Added        |
-|Country Club Heights   |               | Added        |
-|Heather Glen           |               | Added        |
-|Willowhaven            |               | Added        |
-|Greymoss               |               | Added        |
-|Lattamoor              |               | Added        |
-|Omah Street            |               | Added        |
-|Northgate              |               | Added        |
-|Colonial Village       |               | Added        |
-|Bragtown               |               | Added        |
-|Landon Farms           |               | Added        |
-|Northeast Hills        |               | Added        |
-|Milan Woods            |               | Added        |
-|Merrick Moore          |               | Added        |
-|Grove Park             |               | Added        |
-|Oak Grove Community    |               | Added        |
-|Eastway Village        |               | Added        |
-|Franklin Village       |               | Added        |
-|Edgemont               |               | Added        |
-|American Tobacco Campus|               | Added        |
-|Trinity Park           |               | Added        |
+|Country Club Heights   |               |              |
+|Heather Glen           |               |              |
+|Willowhaven            |               |              |
+|Greymoss               |               |              |
+|Lattamoor              |               |              |
+|Omah Street            |               |              |
+|Northgate              |               |              |
+|Colonial Village       |               |              |
+|Bragtown               |               |              |
+|Landon Farms           |               |              |
+|Northeast Hills        |               |              |
+|Milan Woods            |               |              |
+|Merrick Moore          |               |              |
+|Grove Park             |               |              |
+|Oak Grove Community    |               |              |
+|Eastway Village        |               |              |
+|Franklin Village       |               |              |
+|Edgemont               |               |              |
+|American Tobacco Campus|               |              |
+|Trinity Park           |               |              |
+|Crest Street           |               |              |
+|Duke Manor Apartments  |               |              |
+|Trinity Commons        |               |              |
+|West Hills             |               |              |
+|Bennet Place           |               |              |
+|Walden Pond            |               |              |
+|Arrowhead              |               |              |
+|Solterra               |               |              |
+|Anderson Street / Wrightwood Park|               |              |
+|Burch Avenue           |               |              |
+|Brookstown             |               |              |
+|North Carolina Central University|               |              |
+|College View           |               |              |
+|Hope Valley Downs      |               |              |
+
 
 <ul>
-<li>Crest Street</li>
-<li>Duke Manor Apartments</li>
-<li>Trinity Commons</li>
-<li>West Hills</li>
-<li>Bennet Place</li>
-<li>Walden Pond</li>
-<li>Arrowhead</li>
-<li>Solterra</li>
-<li>Anderson Street / Wrightwood Park</li>
-<li>Burch Avenue</li>
-<li>Brookstown</li>
-<li>North Carolina Central University</li>
-<li>College View</li>
-<li>Hope Valley Downs</li>
 <li>Hope Valley Forest</li>
 <li>Surrey Green</li>
 <li>Hope Valley Farms</li>
