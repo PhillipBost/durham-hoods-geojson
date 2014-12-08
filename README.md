@@ -4,10 +4,13 @@ durham-hoods
 A map of Durham, North Carolina neighborhoods mapped out in GeoJSON.
 
 The following neighborhoods were recently added/updated:
+| Neighborhood  | Date Changed  | Description  |
+| ------------- |:-------------:| ------------:|
+| Rougemont     |               | Added        |
+| Bahama        |               | Added        |
+| Treyburn      |               | Added        |
+
 <ul>
-<li>Rougemont</li>
-<li>Bahama</li>
-<li>Treyburn</li>
 <li>Country Club Heights</li>
 <li>Heather Glen</li>
 <li>Willowhaven</li>
