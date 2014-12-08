@@ -1,5 +1,9 @@
 durham-hoods
 ============
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 A map of Durham, North Carolina neighborhoods mapped out in GeoJSON.
 
