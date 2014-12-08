@@ -8,6 +8,7 @@ Content Cell  | Content Cell
 A map of Durham, North Carolina neighborhoods mapped out in GeoJSON.
 
 The following neighborhoods were recently added/updated:
+
 Neighborhood  | Date Changed  | Description  
 ------------- |:-------------:| ------------:
 Rougemont     |               | Added        
