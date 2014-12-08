@@ -1,41 +1,37 @@
 durham-hoods
 ============
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
 A map of Durham, North Carolina neighborhoods mapped out in GeoJSON.
 
 The following neighborhoods were recently added/updated:
 
-|Neighborhood        | Date Changed  | Description  |
-|--------------------|:-------------:|:------------:|
-|Rougemont           |               | Added        |
-|Bahama              |               | Added        |
-|Treyburn            |               | Added        |
-|Country Club Heights|               | Added        |
-|Heather Glen        |               | Added        |
-|Willowhaven         |               | Added        |
-|Greymoss            |               | Added        |
-|Lattamoor           |               | Added        |
-|Omah Street         |               | Added        |
+|Neighborhood           | Date Changed  | Description  |
+|-----------------------|:-------------:|:------------:|
+|Rougemont              |               | Added        |
+|Bahama                 |               | Added        |
+|Treyburn               |               | Added        |
+|Country Club Heights   |               | Added        |
+|Heather Glen           |               | Added        |
+|Willowhaven            |               | Added        |
+|Greymoss               |               | Added        |
+|Lattamoor              |               | Added        |
+|Omah Street            |               | Added        |
+|Northgate              |               | Added        |
+|Colonial Village       |               | Added        |
+|Bragtown               |               | Added        |
+|Landon Farms           |               | Added        |
+|Northeast Hills        |               | Added        |
+|Milan Woods            |               | Added        |
+|Merrick Moore          |               | Added        |
+|Grove Park             |               | Added        |
+|Oak Grove Community    |               | Added        |
+|Eastway Village        |               | Added        |
+|Franklin Village       |               | Added        |
+|Edgemont               |               | Added        |
+|American Tobacco Campus|               | Added        |
+|Trinity Park           |               | Added        |
 
 <ul>
-<li>Northgate</li>
-<li>Colonial Village</li>
-<li>Bragtown</li>
-<li>Landon Farms</li>
-<li>Northeast Hills</li>
-<li>Milan Woods</li>
-<li>Merrick Moore</li>
-<li>Grove Park</li>
-<li>Oak Grove Community</li>
-<li>Eastway Village</li>
-<li>Franklin Village</li>
-<li>Edgemont</li>
-<li>American Tobacco Campus</li>
-<li>Trinity Park</li>
 <li>Crest Street</li>
 <li>Duke Manor Apartments</li>
 <li>Trinity Commons</li>
