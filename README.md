@@ -1,9 +1,10 @@
 durham-hoods
 ============
 
-A map of Durham, North Carolina neighborhoods mapped out in GeoJSON.
+Durham, North Carolina neighborhoods mapped out in GeoJSON.
+This map is the basis for [Durham Hoods](durhamhoods.com).
 
-The following neighborhoods were recently added/updated:
+Timeline of edits for the past couple of years:
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
