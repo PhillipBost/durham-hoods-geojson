@@ -4,61 +4,62 @@ durham-hoods
 Durham, North Carolina neighborhoods mapped out in GeoJSON.
 This map is the underlying feature of my [Durham Hoods](http://durhamhoods.com) project.
 
-Timeline of edits for the past couple of years (under construction):
+Timeline of edits for the past couple of years:
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
 |College View                     |11/23/2014     |Added          |
 |North Carolina Central University|11/23/2014     |Borders Altered|
-|Brookstown                       |11/22/2014     |Added          |
 |Bragtown                         |11/22/2014     |Added          |
-|Northgate Park                   |11/22/2014     |Borders Altered|
+|Brookstown                       |11/22/2014     |Added          |
+|Burch Avenue                     |11/22/2014     |Borders Altered|
 |Colonial Village                 |11/22/2014     |Borders Altered|
-|Rougemont                        |11/20/2014     |Added          |
+|Northgate Park                   |11/22/2014     |Borders Altered|
 |Bahama                           |11/20/2014     |Added          |
+|Rougemont                        |11/20/2014     |Added          |
+|Trinity Park                     |11/20/2014     |Borders Altered|
 |Arrowhead                        |11/19/2014     |Added          |
 |American Tobacco Campus          |11/18/2014     |Added          |
 |Greymoss                         |11/17/2014     |Added          |
 |Lattamoor                        |11/17/2014     |Added          |
-|Solterra                         |11/17/2014     |Added          |
 |Rustica Oaks                     |11/17/2014     |Added          |
+|Solterra                         |11/17/2014     |Added          |
 |Country Club Heights             |11/17/2014     |Borders Altered|
-|Willowhaven                      |11/17/2014     |Borders Altered|
 |Heather Glen                     |11/15/2014     |Borders Altered|
+|Wellington Forest                |11/17/2014     |Borders Altered|
+|Willowhaven                      |11/17/2014     |Borders Altered|
+|Anderson Street / Wrightwood Park|11/10/2014     |Borders Altered|
 |Pagehurst                        |10/11/2014     |Added          |
+|Bradbury Glen                    |06/25/2014     |Added          |
+|Bradbury Trace                   |06/25/2014     |Added          |
+|Lochside                         |06/25/2014     |Borders Altered|
+|Duke Manor Apartments            |06/02/2014     |Added          |
+|Trinity Commons                  |06/02/2014     |Added          |
+|Crest Street                     |06/02/2014     |Borders Altered|
+|Oak Grove Community              |03/08/2014     |Added          |
+|Grove Park                       |03/08/2014     |Borders Altered|
+|Landon Farms                     |09/18/2013     |Added          |
+|Merrick Moore                    |09/18/2013     |Added          |
+|Milan Woods                      |09/18/2013     |Added          |
+|Northeast Hills                  |09/18/2013     |Borders Altered|
+|Belcrest                         |09/16/2013     |Added          |
+|Abron Drive                      |09/07/2013     |Added          |
+|Franklin Village                 |09/07/2013     |Added          |
 |Omah Street                      |09/07/2013     |Added          |
-|Landon Farms                     |               |               |
-|Northeast Hills                  |               |               |
-|Milan Woods                      |               |               |
-|Merrick Moore                    |               |               |
-|Grove Park                       |               |               |
-|Oak Grove Community              |               |               |
-|Eastway Village                  |               |               |
-|Franklin Village                 |               |               |
-|Edgemont                         |               |               |
-|Trinity Park                     |               |               |
-|Crest Street                     |               |               |
-|Duke Manor Apartments            |               |               |
-|Trinity Commons                  |               |               |
-|West Hills                       |               |               |
-|Bennet Place                     |               |               |
-|Walden Pond                      |               |               |
-|Anderson Street / Wrightwood Park|               |               |
-|Burch Avenue                     |               |               |
-|Hope Valley Downs                |               |               |
-|Hope Valley Forest               |               |               |
-|Surrey Green                     |               |               |
-|Emorywood Estates                |               |               |
-|Wynterfield                      |               |               |
-|Lochside                         |               |               |
-|Bradbury Trace                   |               |               |
-|Bradbury Glen                    |               |               |
-|Downing Creek                    |               |               |
-|Abron Drive                      |               |               |
-|The Hills at Southpoint          |               |               |
-|Colvard Farms                    |               |               |
-|Lake Park                        |               |               |
-|Wellington Forest                |               |               |
-|Belcrest                         |               |               |
+|Eastway Village                  |09/07/2013     |Borders Altered|
+|Edgemont                         |09/07/2013     |Borders Altered|
+|Emorywood Estates                |05/18/2013     |Added          |
+|Bennet Place                     |04/13/2013     |Added          |
 |Treyburn                         |04/13/2013     |Added          |
+|West Hills                       |04/13/2013     |Borders Altered|
+|Colvard Farms                    |04/14/2013     |Added          |
+|Downing Creek                    |04/14/2013     |Added          |
+|Hope Valley Downs                |04/14/2013     |Added          |
+|Hope Valley Forest               |04/14/2013     |Added          |
+|Lake Park                        |04/14/2013     |Added          |
+|Surrey Green                     |04/14/2013     |Added          |
+|The Hills at Southpoint          |04/14/2013     |Added          |
+|Hope Valley                      |04/14/2013     |Borders Altered|
+|Wynterfield                      |04/15/2013     |Added          |
+|Walden Pond                      |03/02/2013     |Added          |
 |Homeplace II                     |01/17/2013     |Added          |
