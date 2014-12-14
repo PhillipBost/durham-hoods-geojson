@@ -8,6 +8,10 @@ Timeline of edits for the past couple of years:
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Hope Valley Farms North          |12/14/2014     |Added          |
+|Thaxton                          |12/14/2014     |Added          |
+|Hope Valley                      |12/14/2014     |Borders Altered|
+|Hope Valley Farms                |12/14/2014     |Borders Altered|
 |Anderson St. / Wrightwood Park   |12/14/2014     |Borders Altered|
 |College View                     |11/23/2014     |Added          |
 |North Carolina Central University|11/23/2014     |Borders Altered|
