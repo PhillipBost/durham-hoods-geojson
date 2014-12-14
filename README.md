@@ -8,6 +8,7 @@ Timeline of edits for the past couple of years:
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Anderson St. / Wrightwood Park   |12/14/2014     |Borders Altered|
 |College View                     |11/23/2014     |Added          |
 |North Carolina Central University|11/23/2014     |Borders Altered|
 |Bragtown                         |11/22/2014     |Added          |
