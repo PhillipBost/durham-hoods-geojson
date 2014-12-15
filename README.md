@@ -11,6 +11,7 @@ Timeline of edits for the past couple of years:
 |Hope Valley Farms North          |12/14/2014     |Added          |
 |Thaxton                          |12/14/2014     |Added          |
 |Anderson St. / Wrightwood Park   |12/14/2014     |Borders Altered|
+|Fortune's Ridge                  |12/14/2014     |Borders Altered|
 |Hope Valley                      |12/14/2014     |Borders Altered|
 |Hope Valley Farms                |12/14/2014     |Borders Altered|
 |Orchid Court                     |12/14/2014     |Borders Altered|
