@@ -7,6 +7,9 @@ Future additions to the map and where I found them.
 |Nancy Rhodes Creek  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/nancyrhodescreekna/info)|
 |Homeplace I & II    |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/homeplace2/info)|
 |Pine Valley         |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/pinevalleyneighborhood/info)|
+|Frenchman's Creek   |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/FrenchmansCreekDrive/info) & [Google Groups](https://groups.google.com/forum/#!aboutgroup/frenchmanscreek)|
+|         |[Yahoo! Groups]()|
+|         |[Yahoo! Groups]()|
 |         |[Yahoo! Groups]()|
 |         |[Yahoo! Groups]()|
 |         |[Yahoo! Groups]()|
