@@ -10,7 +10,12 @@ Future additions to the map and where I found them.
 |Frenchman's Creek|[Yahoo! Groups](https://groups.yahoo.com/neo/groups/FrenchmansCreekDrive/info) & [Google Groups](https://groups.google.com/forum/#!aboutgroup/frenchmanscreek)|
 |Duke Tower          |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/duketower/info)|
 |Crestfield          |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/CrestfieldOwnersAssn/info)|
-|         |[Google Groups]()|
-|         |[Google Groups]()|
-|         |[Google Groups]()|
-|         |[Google Groups]()|
+|Snow Hill Preserve  |[Google Groups](https://groups.google.com/forum/#!forum/snow-hill-preserve-hoa)|
+|Stratford Glen      |[Google Groups](https://groups.google.com/forum/#!forum/stratford-glen)|
+|Ganyard Farm        |Google Groups [1](https://groups.google.com/forum/#!forum/ganyardfarm) & [2](https://groups.google.com/forum/#!forum/ganyard-farm-townhome-hoa)|
+|Westfield Village   |[Google Groups](https://groups.google.com/forum/#!forum/westfieldvillage)|
+|Prescott Place      |[Google Groups](https://groups.google.com/forum/#!forum/prescott-place)|
+|Tanglewood          |[Google Groups](https://groups.google.com/forum/#!forum/tanglewood-neighborhood-association)|
+|Wood Bridge II      |[Google Groups](https://groups.google.com/forum/#!aboutgroup/woodbridgeii)|
+|Old Bull            |[Google Groups](https://groups.google.com/forum/#!forum/old-bull-residents) & [Open Durham](http://www.opendurham.org/buildings/old-bull-building-blackwells-bull-durham-american-tobacco-company)|
+|Ashton Hall         |[Google Groups](https://groups.google.com/forum/#!forum/ashton-hall)|
