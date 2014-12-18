@@ -12,7 +12,7 @@ Future additions to the map and where I found them.
 |Crestfield          |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/CrestfieldOwnersAssn/info)||
 |Snow Hill Preserve  |[Google Groups](https://groups.google.com/forum/#!forum/snow-hill-preserve-hoa)||
 |Stratford Glen      |[Google Groups](https://groups.google.com/forum/#!forum/stratford-glen)||
-|Ganyard Farm        |Google Groups [1](https://groups.google.com/forum/#!forum/ganyardfarm)<br>Google Groups [2](https://groups.google.com/forum/#!forum/ganyard-farm-townhome-hoa)||
+|Ganyard Farm        |[Google Groups 1](https://groups.google.com/forum/#!forum/ganyardfarm)<br>[Google Groups 2](https://groups.google.com/forum/#!forum/ganyard-farm-townhome-hoa)||
 |Westfield Village   |[Google Groups](https://groups.google.com/forum/#!forum/westfieldvillage)||
 |Prescott Place      |[Google Groups](https://groups.google.com/forum/#!forum/prescott-place)||
 |Tanglewood          |[Google Groups](https://groups.google.com/forum/#!forum/tanglewood-neighborhood-association)||
