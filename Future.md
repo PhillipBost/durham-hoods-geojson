@@ -2,7 +2,7 @@ Future additions to the map and where I found them.
 
 |Neighborhood        |Source|Border Info|
 |:-------------------|:----:|:----------|
-|Hillandale Commons  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/hillandalecommons/info)|Within Watts Hospital-Hillandale.<br>Meeting St, Indian Trail, Haywood Ct<br>36.025513, -78.938977|
+|Hillandale Commons  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/hillandalecommons/info)|Within Watts Hospital-Hillandale.<br>[36.025513, -78.938977](https://www.google.com/maps/place/2707+Indian+Trail,+Durham,+NC+27705/data=!4m2!3m1!1s0x89ace15b6a67e87f:0xfbafa07d50a1f35a?sa=X&ei=7hOTVKuEOrWUsQSk2oKwAw&ved=0CB8Q8gEwAA)|
 |Heights             |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/HeightsNeighbors/info)||
 |Nancy Rhodes Creek  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/nancyrhodescreekna/info)||
 |Homeplace I & II    |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/homeplace2/info)||
