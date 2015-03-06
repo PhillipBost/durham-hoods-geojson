@@ -2,6 +2,7 @@ Future additions to the map and where I found them.
 
 |Neighborhood        |Source|Border Info|
 |:-------------------|:----:|:----------|
+|Ridgefield|Email request|[36.006591, -78.808827](https://www.google.com/maps/place/36%C2%B000'23.7%22N+78%C2%B048'31.8%22W/@36.006591,-78.808827,2341m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)<br>[Borders](http://www.bettercarolinahomes.com/ridgefield-durham-homes-for-sale-and-neighborhood-information.php)|
 |Hillandale Commons  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/hillandalecommons/info)|Within Watts Hospital-Hillandale.<br>[36.025513, -78.938977](https://www.google.com/maps/place/2707+Indian+Trail,+Durham,+NC+27705/data=!4m2!3m1!1s0x89ace15b6a67e87f:0xfbafa07d50a1f35a?sa=X&ei=7hOTVKuEOrWUsQSk2oKwAw&ved=0CB8Q8gEwAA)|
 |Nancy Rhodes Creek  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/nancyrhodescreekna/info)|[36.055546, -78.964980](https://www.google.com/maps/place/Nancy+Rhodes+Creek,+Durham,+NC+27712/@36.0552516,-78.9650444,16z/data=!3m1!4b1!4m2!3m1!1s0x89ace1079ad76919:0x274713071a19b1c0)|
 |Homeplace I & II    |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/homeplace2/info)|[35.922787, -78.934181](https://www.google.com/maps/place/Homeplace+I,+Durham,+NC+27713/@35.9233784,-78.9337626,587m/data=!3m1!1e3!4m2!3m1!1s0x89ace8aa263bc781:0xa47a8fec9cbebd27)<br>[35.925410, -78.931835](https://www.google.com/maps/place/Homeplace+I,+Durham,+NC+27713/@35.9242408,-78.9327299,588m/data=!3m1!1e3!4m2!3m1!1s0x89ace8aa263bc781:0xa47a8fec9cbebd27)|
