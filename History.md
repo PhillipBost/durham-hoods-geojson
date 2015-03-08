@@ -2,9 +2,12 @@ Timeline of edits for the past couple of years:
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Elm Grove                        |03/07/2015     |Added          |
 |Deer Forest                      |03/07/2015     |Added          |
 |Stonehill Estates                |03/07/2015     |Added          |
 |Ridgefield                       |03/07/2015     |Added          |
+|Thaxton                          |03/07/2015     |Borders Altered|
+|Hope Valley Farms                |03/07/2015     |Borders Altered|
 |Holston Meadows                  |12/17/2014     |Added          |
 |Hope Valley Farms North          |12/14/2014     |Added          |
 |Thaxton                          |12/14/2014     |Added          |
