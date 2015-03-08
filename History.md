@@ -2,6 +2,7 @@ Timeline of edits for the past couple of years:
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Deer Forest                      |03/07/2015     |Added          |
 |Stonehill Estates                |03/07/2015     |Added          |
 |Ridgefield                       |03/07/2015     |Added          |
 |Holston Meadows                  |12/17/2014     |Added          |
