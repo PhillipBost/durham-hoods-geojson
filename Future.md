@@ -2,7 +2,6 @@ Future additions to the map and where I found them.
 
 |Neighborhood        |Source|Border Info|
 |:-------------------|:----:|:----------|
-|Stonehill Estates|Resident emailed with request|Next to Gatewood Forest<br>[35.991063, -78.823967](https://www.google.com/maps/place/35%C2%B059'27.8%22N+78%C2%B049'26.3%22W/@35.991063,-78.823967,4677m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)|
 |Deer Forest|Resident emailed with request|North of Heather Glen<br>[36.102159, -78.959906](https://www.google.com/maps/place/36%C2%B006'07.8%22N+78%C2%B057'35.7%22W/@36.102159,-78.959906,2327m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)|
 |Hillandale Commons  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/hillandalecommons/info)|Within Watts Hospital-Hillandale.<br>[36.025513, -78.938977](https://www.google.com/maps/place/2707+Indian+Trail,+Durham,+NC+27705/data=!4m2!3m1!1s0x89ace15b6a67e87f:0xfbafa07d50a1f35a?sa=X&ei=7hOTVKuEOrWUsQSk2oKwAw&ved=0CB8Q8gEwAA)|
 |Nancy Rhodes Creek  |[Yahoo! Groups](https://groups.yahoo.com/neo/groups/nancyrhodescreekna/info)|[36.055546, -78.964980](https://www.google.com/maps/place/Nancy+Rhodes+Creek,+Durham,+NC+27712/@36.0552516,-78.9650444,16z/data=!3m1!4b1!4m2!3m1!1s0x89ace1079ad76919:0x274713071a19b1c0)|
