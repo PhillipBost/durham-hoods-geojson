@@ -1,4 +1,4 @@
-Timeline of edits for the past couple of years:
+I don't have an accurate account of the first ~125 neighborhoods added in early 2011, but here's a timeline of edits for the past few years:
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
