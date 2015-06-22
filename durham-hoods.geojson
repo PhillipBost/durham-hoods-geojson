@@ -3324,8 +3324,66 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Chelsea Meadows",
+        "description": "<b>Chelsea Meadows</b><br><a href=\"http://durhamhoods.com/chelsea-meadows/\">Map</a>"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.95125150680542,
+              35.89527331115709
+            ],
+            [
+              -78.94992113113403,
+              35.895368915651524
+            ],
+            [
+              -78.94833326339722,
+              35.89539281675708
+            ],
+            [
+              -78.9421534538269,
+              35.895464520030494
+            ],
+            [
+              -78.94286155700684,
+              35.893326430883306
+            ],
+            [
+              -78.94579991698265,
+              35.89324060191223
+            ],
+            [
+              -78.94767478108406,
+              35.89077759672979
+            ],
+            [
+              -78.9516980946064,
+              35.89274844158545
+            ],
+            [
+              -78.95262479782104,
+              35.89365670858754
+            ],
+            [
+              -78.95127296447754,
+              35.894352025566455
+            ],
+            [
+              -78.95125150680542,
+              35.89527331115709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cleveland-Holloway",
-        "description": "<b>Cleveland-Hollowat</b><br><a href=\"http://durhamhoods.com/cleveland-holloway/\">Map</a>"
+        "description": "<b>Cleveland-Holloway</b><br><a href=\"http://durhamhoods.com/cleveland-holloway/\">Map</a>"
       },
       "geometry": {
         "type": "Polygon",
