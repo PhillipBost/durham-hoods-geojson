@@ -15518,7 +15518,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pleasant Drive",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/pleasant-drive/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/pleasant-drive/</a></div>"
+        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/pleasant-drive/\" target=\"_blank\">http://durhamhoods.com/pleasant-drive/</a></div>"
       },
       "geometry": {
         "type": "Polygon",
@@ -15631,6 +15631,80 @@
             [
               -78.861069,
               35.968372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pleasant Green Woods",
+        "description": "<a href=\"http://durhamhoods.com/pleasant-green-woods/\" target=\"_blank\">http://durhamhoods.com/pleasant-green-woods/</a>"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.99470329284668,
+              36.064364428590025
+            ],
+            [
+              -78.99560451507568,
+              36.062213564390795
+            ],
+            [
+              -78.99448871612549,
+              36.05968101988097
+            ],
+            [
+              -78.9922571182251,
+              36.059021851092
+            ],
+            [
+              -78.99255752563475,
+              36.055066722403105
+            ],
+            [
+              -78.99526119232178,
+              36.05208289729334
+            ],
+            [
+              -79.00191307067871,
+              36.052152289859734
+            ],
+            [
+              -79.00474548339844,
+              36.054997332406245
+            ],
+            [
+              -79.01058197021484,
+              36.05648920385605
+            ],
+            [
+              -79.00813579559326,
+              36.061068725598176
+            ],
+            [
+              -79.00332927703857,
+              36.06120749482384
+            ],
+            [
+              -79.00036811828613,
+              36.06675806316256
+            ],
+            [
+              -78.99727821350098,
+              36.0666886834752
+            ],
+            [
+              -78.99732112884521,
+              36.06488479012705
+            ],
+            [
+              -78.99470329284668,
+              36.064364428590025
             ]
           ]
         ]
@@ -21726,7 +21800,7 @@
       "type": "Feature",
       "properties": {
         "name": "Wynterfield",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/wynterfield/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/neighborhoods/wynterfield/</a>"
+        "description": "<a href=\"http://durhamhoods.com/wynterfield/\" target=\"_blank\">http://durhamhoods.com/wynterfield/</a>"
       },
       "geometry": {
         "type": "Polygon",
