@@ -2,6 +2,10 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Artisan at Brightleaf            |06/22/2015     |Added          |
+|Ashton Hall                      |06/22/2015     |Added          |
+|Brightleaf at the Park           |06/22/2015     |Added          |
+|Orchard Ridge                    |06/22/2015     |Added          |
 |Pleasant Green Woods             |06/22/2015     |Added          |
 |Chelsea Meadows                  |06/22/2015     |Added          |
 |Huntington Ridge                 |06/22/2015     |Borders Altered|
