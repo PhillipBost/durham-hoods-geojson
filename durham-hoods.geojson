@@ -10639,7 +10639,70 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Holston Meadows"
+        "name": "Hillandale Commons",
+        "description": "<a href=\"http://durhamhoods.com/hillandale-commons/\" target=\"_blank\">http://durhamhoods.com/hillandale-commons/</a>"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.93896732479334,
+              36.027228021882294
+            ],
+            [
+              -78.9411660656333,
+              36.0262990551271
+            ],
+            [
+              -78.94099440425633,
+              36.026039018395956
+            ],
+            [
+              -78.94090924412012,
+              36.025136611070174
+            ],
+            [
+              -78.94054379314184,
+              36.02449396493658
+            ],
+            [
+              -78.93854822963476,
+              36.023783251863925
+            ],
+            [
+              -78.93803358078003,
+              36.02381741830101
+            ],
+            [
+              -78.93728222697973,
+              36.02473719491253
+            ],
+            [
+              -78.93683161586523,
+              36.02480715389699
+            ],
+            [
+              -78.93681049346924,
+              36.02508454879372
+            ],
+            [
+              -78.93735766410828,
+              36.025114918459145
+            ],
+            [
+              -78.93896732479334,
+              36.027228021882294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holston Meadows",
+        "description": "<b>Holston Meadows</b><br><a href=\"http://durhamhoods.com/holston-meadows/\">Map</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -20564,7 +20627,7 @@
       "type": "Feature",
       "properties": {
         "name": "Watts Hospital-Hillandale",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/watts-hospital-hillandale/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/watts-hospital-hillandale/</a></div>"
+        "description": "<a href=\"http://durhamhoods.com/watts-hospital-hillandale/\" target=\"_blank\">http://durhamhoods.com/watts-hospital-hillandale/</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -20597,6 +20660,50 @@
             [
               -78.936996,
               36.028481
+            ],
+            [
+              -78.93896698951721,
+              36.02722775073192
+            ],
+            [
+              -78.93735766410828,
+              36.025114918459145
+            ],
+            [
+              -78.93681049346924,
+              36.02508454879372
+            ],
+            [
+              -78.93683195114136,
+              36.02480688273827
+            ],
+            [
+              -78.93728256225586,
+              36.024737466071514
+            ],
+            [
+              -78.93803358078003,
+              36.023817689463144
+            ],
+            [
+              -78.93854856491089,
+              36.02378298070166
+            ],
+            [
+              -78.94054412841797,
+              36.024494507256215
+            ],
+            [
+              -78.94090890884398,
+              36.025136611070174
+            ],
+            [
+              -78.94099473953247,
+              36.026039018395956
+            ],
+            [
+              -78.94116640090942,
+              36.026299326280686
             ],
             [
               -78.941933,
