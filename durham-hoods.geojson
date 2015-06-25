@@ -735,6 +735,111 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Archer Woods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.97028412669896,
+              36.04847738138971
+            ],
+            [
+              -78.97086314857006,
+              36.04821796003579
+            ],
+            [
+              -78.97071126848459,
+              36.047935496105644
+            ],
+            [
+              -78.9713965728879,
+              36.04764896496058
+            ],
+            [
+              -78.97196151316165,
+              36.04692843075533
+            ],
+            [
+              -78.97309944033621,
+              36.04645186613395
+            ],
+            [
+              -78.97398356348276,
+              36.0454903245235
+            ],
+            [
+              -78.97379916161299,
+              36.042300915088795
+            ],
+            [
+              -78.97231254726648,
+              36.042300643990274
+            ],
+            [
+              -78.97051949054003,
+              36.04262162397939
+            ],
+            [
+              -78.96699070930481,
+              36.04267096369274
+            ],
+            [
+              -78.9653092995286,
+              36.04352193333467
+            ],
+            [
+              -78.96623969078064,
+              36.04415059853286
+            ],
+            [
+              -78.96608009934425,
+              36.04452090953448
+            ],
+            [
+              -78.96729312837124,
+              36.04484160938255
+            ],
+            [
+              -78.9671328663826,
+              36.04536101566367
+            ],
+            [
+              -78.96774273365736,
+              36.0456806277422
+            ],
+            [
+              -78.96800994873047,
+              36.04589071979274
+            ],
+            [
+              -78.9684297144413,
+              36.04550225237406
+            ],
+            [
+              -78.96933697164059,
+              36.04632933596984
+            ],
+            [
+              -78.96942146122454,
+              36.04676090154147
+            ],
+            [
+              -78.96917704492807,
+              36.0471802660711
+            ],
+            [
+              -78.97028412669896,
+              36.04847738138971
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Arrowhead"
       },
       "geometry": {
@@ -4304,8 +4409,8 @@
               36.045952
             ],
             [
-              -78.967369,
-              36.045601
+              -78.96736890077591,
+              36.04560011489813
             ],
             [
               -78.967941,
@@ -4332,8 +4437,8 @@
               36.04686
             ],
             [
-              -78.96917,
-              36.04739
+              -78.96916899830103,
+              36.04739062520065
             ],
             [
               -78.968712,
@@ -4728,8 +4833,8 @@
               36.04958
             ],
             [
-              -78.970284,
-              36.04847
+              -78.97028379142284,
+              36.04847656815795
             ],
             [
               -78.969177,
@@ -4778,6 +4883,10 @@
             [
               -78.964203,
               36.04385
+            ],
+            [
+              -78.96357659250498,
+              36.04339533218948
             ],
             [
               -78.962891,
@@ -4906,6 +5015,79 @@
             [
               -78.954842,
               36.036442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coles Pond"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.96420255303383,
+              36.04385022786128
+            ],
+            [
+              -78.9653092995286,
+              36.04352193333467
+            ],
+            [
+              -78.96698668599129,
+              36.04266987930377
+            ],
+            [
+              -78.9666286110878,
+              36.04063065942061
+            ],
+            [
+              -78.96611765027046,
+              36.03977965853114
+            ],
+            [
+              -78.9661156386137,
+              36.03924991328854
+            ],
+            [
+              -78.9651034399867,
+              36.03913930073084
+            ],
+            [
+              -78.96476715803146,
+              36.03889801299472
+            ],
+            [
+              -78.9643095061183,
+              36.03923012232762
+            ],
+            [
+              -78.96465349942444,
+              36.040020401353104
+            ],
+            [
+              -78.96460019052029,
+              36.04060002463258
+            ],
+            [
+              -78.96388236433268,
+              36.040581318428714
+            ],
+            [
+              -78.96411940455437,
+              36.04278834871075
+            ],
+            [
+              -78.96357659250498,
+              36.04339560328422
+            ],
+            [
+              -78.96420255303383,
+              36.04385022786128
             ]
           ]
         ]
@@ -9247,6 +9429,95 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Forest Acres"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.96714124828577,
+              36.051223888153764
+            ],
+            [
+              -78.96412577480078,
+              36.04961020505856
+            ],
+            [
+              -78.96413683891296,
+              36.04847439953993
+            ],
+            [
+              -78.96516680717468,
+              36.04830090990338
+            ],
+            [
+              -78.96596074104309,
+              36.04767634404599
+            ],
+            [
+              -78.96680161356926,
+              36.045832436247814
+            ],
+            [
+              -78.9672089740634,
+              36.04595198523993
+            ],
+            [
+              -78.96736890077591,
+              36.04560011489813
+            ],
+            [
+              -78.96794054657221,
+              36.04597096125374
+            ],
+            [
+              -78.96765053272247,
+              36.04653861303746
+            ],
+            [
+              -78.96797843277454,
+              36.04666141395934
+            ],
+            [
+              -78.96781280636787,
+              36.047058008122825
+            ],
+            [
+              -78.96846022456884,
+              36.04727189163736
+            ],
+            [
+              -78.96865099668503,
+              36.046860117915045
+            ],
+            [
+              -78.96916899830103,
+              36.04739062520065
+            ],
+            [
+              -78.96871201694012,
+              36.0477411321409
+            ],
+            [
+              -78.96955087780952,
+              36.04877908978872
+            ],
+            [
+              -78.9689477160573,
+              36.04924046014468
+            ],
+            [
+              -78.96714124828577,
+              36.051223888153764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Forest Hills",
         "description": "<b>Forest Hills</b><br><a href=\"http://durhamhoods.com/forest-hills/\">Map</a>"
       },
@@ -11824,6 +12095,111 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Huckleberry Heights"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.96596040576696,
+              36.04767661512601
+            ],
+            [
+              -78.96516647189854,
+              36.04830090990338
+            ],
+            [
+              -78.96413650363684,
+              36.04847412846265
+            ],
+            [
+              -78.96412543952464,
+              36.04961047613192
+            ],
+            [
+              -78.9611217007041,
+              36.049862302867744
+            ],
+            [
+              -78.9586329460144,
+              36.049706436037994
+            ],
+            [
+              -78.95825207233428,
+              36.04893414522764
+            ],
+            [
+              -78.95871877670288,
+              36.04763297123301
+            ],
+            [
+              -78.95836472511292,
+              36.046010810867834
+            ],
+            [
+              -78.96083135157824,
+              36.0432508385566
+            ],
+            [
+              -78.9614723995328,
+              36.043491299671516
+            ],
+            [
+              -78.96224990487099,
+              36.0427213877635
+            ],
+            [
+              -78.96279942244291,
+              36.04304128165355
+            ],
+            [
+              -78.96408084779978,
+              36.04394131511741
+            ],
+            [
+              -78.96504979580641,
+              36.04473100467972
+            ],
+            [
+              -78.96549940109253,
+              36.04492185191283
+            ],
+            [
+              -78.96527040749788,
+              36.04549005343594
+            ],
+            [
+              -78.96575186401606,
+              36.045619904258004
+            ],
+            [
+              -78.96601907908915,
+              36.045108361261846
+            ],
+            [
+              -78.9667509868741,
+              36.045349358879726
+            ],
+            [
+              -78.96655920892954,
+              36.045761140503956
+            ],
+            [
+              -78.96680161356926,
+              36.045832436247814
+            ],
+            [
+              -78.96596040576696,
+              36.04767661512601
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Huntington Ridge",
         "description": "<b>Huntington Ridge</b><br><a href=\"http://durhamhoods.com/huntington-ridge/\">Map</a>"
       },
@@ -13406,8 +13782,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Myers Park/Beechgrove",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/myers-park-beechgrove/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/myers-park-beechgrove/</a></div>"
+        "name": "Myers Park/Beechgrove"
       },
       "geometry": {
         "type": "Polygon",
@@ -13504,8 +13879,152 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Durham Community",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/north-durham-community/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/north-durham-community/</a><a href=\"http://groups.google.com/group/north-durham-community\" target=\"_blank\"></a></div>"
+        "name": "Nancy Rhodes Creek"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.95676612854004,
+              36.06113811024161
+            ],
+            [
+              -78.95536098629236,
+              36.053279910488776
+            ],
+            [
+              -78.95551085472107,
+              36.051978266198695
+            ],
+            [
+              -78.95551152527332,
+              36.049758210966964
+            ],
+            [
+              -78.9586329460144,
+              36.04970616496497
+            ],
+            [
+              -78.96112203598022,
+              36.049862302867744
+            ],
+            [
+              -78.9641261100769,
+              36.04961074720525
+            ],
+            [
+              -78.96714091300964,
+              36.05122415922155
+            ],
+            [
+              -78.96894805133343,
+              36.04923991799542
+            ],
+            [
+              -78.96925382316113,
+              36.049529967306924
+            ],
+            [
+              -78.96984089165926,
+              36.0491789261818
+            ],
+            [
+              -78.97103816270828,
+              36.05076957722644
+            ],
+            [
+              -78.97157292813061,
+              36.050541336498895
+            ],
+            [
+              -78.97181667387486,
+              36.05089210047936
+            ],
+            [
+              -78.9712068066001,
+              36.05117021671301
+            ],
+            [
+              -78.9719769358635,
+              36.05212030423126
+            ],
+            [
+              -78.97250398993492,
+              36.05192188461852
+            ],
+            [
+              -78.9727708697319,
+              36.05232983696782
+            ],
+            [
+              -78.97229813039303,
+              36.05258192606689
+            ],
+            [
+              -78.97257171571255,
+              36.05289798502242
+            ],
+            [
+              -78.97302970290184,
+              36.05270010949557
+            ],
+            [
+              -78.97366303950548,
+              36.05363120438433
+            ],
+            [
+              -78.97293079644442,
+              36.054031287188984
+            ],
+            [
+              -78.97341225296259,
+              36.054562559314604
+            ],
+            [
+              -78.97306054830551,
+              36.054789975215115
+            ],
+            [
+              -78.97389974445105,
+              36.05565978753646
+            ],
+            [
+              -78.97477716207504,
+              36.05532801856105
+            ],
+            [
+              -78.97566195577382,
+              36.057010972715176
+            ],
+            [
+              -78.97627282887697,
+              36.05781218610898
+            ],
+            [
+              -78.97698160260916,
+              36.058551322625
+            ],
+            [
+              -78.97883668541908,
+              36.06019382336019
+            ],
+            [
+              -78.97856712341309,
+              36.06037487579876
+            ],
+            [
+              -78.95676612854004,
+              36.06113811024161
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Durham Community"
       },
       "geometry": {
         "type": "Polygon",
@@ -15098,8 +15617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Old West Durham",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/old-west-durham/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/old-west-durham/</a></div>"
+        "name": "Old West Durham"
       },
       "geometry": {
         "type": "Polygon",
@@ -15442,8 +15960,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pagehurst",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/pagehurst/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/pagehurst/</a></div>"
+        "name": "Pagehurst"
       },
       "geometry": {
         "type": "Polygon",
@@ -16386,8 +16903,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pleasant Green Woods",
-        "description": "<a href=\"http://durhamhoods.com/pleasant-green-woods/\" target=\"_blank\">http://durhamhoods.com/pleasant-green-woods/</a>"
+        "name": "Pleasant Green Woods"
       },
       "geometry": {
         "type": "Polygon",
@@ -16816,8 +17332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rigsbee Hill",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/rigsbee-hill/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/rigsbee-hill/</a>"
+        "name": "Rigsbee Hill"
       },
       "geometry": {
         "type": "Polygon",
@@ -16862,8 +17377,52 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rockwood",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/rockwood/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/rockwood/</a></div>"
+        "name": "River's Edge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.95326852798462,
+              36.0589004246602
+            ],
+            [
+              -78.95349919795989,
+              36.05991736524006
+            ],
+            [
+              -78.95580254495144,
+              36.061050024258016
+            ],
+            [
+              -78.95676646381617,
+              36.06113811024161
+            ],
+            [
+              -78.9560791477561,
+              36.057298282921714
+            ],
+            [
+              -78.95325779914855,
+              36.05732186399584
+            ],
+            [
+              -78.9525818824768,
+              36.05799839387225
+            ],
+            [
+              -78.95326852798462,
+              36.0589004246602
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockwood"
       },
       "geometry": {
         "type": "Polygon",
@@ -20270,8 +20829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Walden Pond",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/walden-pond/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/walden-pond/</a>"
+        "name": "Walden Pond"
       },
       "geometry": {
         "type": "Polygon",
@@ -20332,8 +20890,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Walltown",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/walltown/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/walltown/</a></div>"
+        "name": "Walltown"
       },
       "geometry": {
         "type": "Polygon",
@@ -20394,8 +20951,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Warehouse District",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/warehouse-district/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/warehouse-district/</a></div>"
+        "name": "Warehouse District"
       },
       "geometry": {
         "type": "Polygon",
@@ -20480,8 +21036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Waterford",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/waterford/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/waterford/</a></div>"
+        "name": "Waterford"
       },
       "geometry": {
         "type": "Polygon",
@@ -20496,8 +21051,8 @@
               36.039139
             ],
             [
-              -78.96611,
-              36.039249
+              -78.96611597388983,
+              36.03924991328854
             ],
             [
               -78.966103,
@@ -20596,8 +21151,8 @@
               36.043396
             ],
             [
-              -78.964119,
-              36.042789
+              -78.96411906927823,
+              36.04278834871075
             ],
             [
               -78.963882,
@@ -20626,8 +21181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Watts Hospital-Hillandale",
-        "description": "<a href=\"http://durhamhoods.com/watts-hospital-hillandale/\" target=\"_blank\">http://durhamhoods.com/watts-hospital-hillandale/</a>"
+        "name": "Watts Hospital-Hillandale"
       },
       "geometry": {
         "type": "Polygon",
@@ -20768,8 +21322,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Welcome Circle",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/welcome-circle/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/welcome-circle/</a></div>"
+        "name": "Welcome Circle"
       },
       "geometry": {
         "type": "Polygon",
@@ -20818,8 +21371,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wellington Forest",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/wellington-forest/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/wellington-forest/</a></div>"
+        "name": "Wellington Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -20880,8 +21432,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wellons Village",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/wellons-village/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/wellons-village/</a></div>"
+        "name": "Wellons Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -20974,8 +21525,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "West End",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/west-end/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/west-end/</a></div>"
+        "name": "West End"
       },
       "geometry": {
         "type": "Polygon",
@@ -21084,8 +21634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "West Hills",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/west-hills/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/west-hills/</a></div>"
+        "name": "West Hills"
       },
       "geometry": {
         "type": "Polygon",
@@ -21130,8 +21679,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "West Murray / Broad",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/west-murray-broad/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/west-murray-broad/</a>"
+        "name": "West Murray / Broad"
       },
       "geometry": {
         "type": "Polygon",
@@ -21212,8 +21760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Westgate Townes",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/westgate-townes/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/westgate-townes/</a></div>"
+        "name": "Westgate Townes"
       },
       "geometry": {
         "type": "Polygon",
@@ -21294,16 +21841,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Westwood Estates",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/westwood-estates/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/westwood-estates/</a></div>"
+        "name": "Westwood Estates"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -78.973801,
-              36.042301
+              -78.97379916161299,
+              36.042300643990274
             ],
             [
               -78.973778,
@@ -21350,8 +21896,8 @@
               36.042301
             ],
             [
-              -78.973801,
-              36.042301
+              -78.97379916161299,
+              36.042300643990274
             ]
           ]
         ]
@@ -21360,8 +21906,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Whitney Park",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/whitney-park/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/whitney-park/</a>"
+        "name": "Whitney Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -21438,8 +21983,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Willow Hill",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/willow-hill/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/willow-hill/</a></div>"
+        "name": "Willow Hill"
       },
       "geometry": {
         "type": "Polygon",
@@ -21524,8 +22068,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Willowhaven",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/willowhaven/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/neighborhoods/willowhaven/</a>"
+        "name": "Willowhaven"
       },
       "geometry": {
         "type": "Polygon",
@@ -21718,8 +22261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Windsor Oaks",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/windsor-oaks/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/windsor-oaks/</a><a href=\"http://durhamhoods.com/neighborhoods/windsor-oaks/\" target=\"_blank\"></a></div>"
+        "name": "Windsor Oaks"
       },
       "geometry": {
         "type": "Polygon",
@@ -21796,8 +22338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Woodcroft",
-        "description": "<div dir=\"ltr\"><div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/woodcroft/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/woodcroft/</a></div></div>"
+        "name": "Woodcroft"
       },
       "geometry": {
         "type": "Polygon",
@@ -22302,8 +22843,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Woodlake",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/woodlake/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/woodlake/</a></div>"
+        "name": "Woodlake"
       },
       "geometry": {
         "type": "Polygon",
@@ -22440,8 +22980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Woodstone at Croasdaile Farm",
-        "description": "<a href=\"http://durhamhoods.com/woodstone-at-croasdaile-farm/\" target=\"_blank\">http://durhamhoods.com/woodstone-at-croasdaile-farm/</a>"
+        "name": "Woodstone at Croasdaile Farm"
       },
       "geometry": {
         "type": "Polygon",
@@ -22482,8 +23021,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Woodwinds",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/woodwinds/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/woodwinds/</a>"
+        "name": "Woodwinds"
       },
       "geometry": {
         "type": "Polygon",
@@ -22540,8 +23078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wynstead",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/wynstead/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/wynstead/</a></div>"
+        "name": "Wynstead"
       },
       "geometry": {
         "type": "Polygon",
@@ -22590,8 +23127,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wynterfield",
-        "description": "<a href=\"http://durhamhoods.com/wynterfield/\" target=\"_blank\">http://durhamhoods.com/wynterfield/</a>"
+        "name": "Wynterfield"
       },
       "geometry": {
         "type": "Polygon",
