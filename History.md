@@ -2,6 +2,8 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Hillandale Commons               |06/22/2015     |Added          |
+|Watts Hosital-Hillandale         |06/24/2015     |Borders Altered|
 |Artisan at Brightleaf            |06/22/2015     |Added          |
 |Ashton Hall                      |06/22/2015     |Added          |
 |Brightleaf at the Park           |06/22/2015     |Added          |
