@@ -4,8 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abercromby",
-        "description": "<b>Abercromby</b><br><a href=\"http://durhamhoods.com/abercromby/\">Map</a>"
+        "name": "Abercromby"
       },
       "geometry": {
         "type": "Polygon",
@@ -62,8 +61,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abron Drive",
-        "description": "<b>Abron Drive</b><br><a href=\"http://durhamhoods.com/abron-drive/\">Map</a>"
+        "name": "Abron Drive"
       },
       "geometry": {
         "type": "Polygon",
@@ -96,8 +94,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Albright",
-        "description": "<b>Albright</b><br><a href=\"http://durhamhoods.com/albright/\">Map</a>"
+        "name": "Albright"
       },
       "geometry": {
         "type": "Polygon",
@@ -194,8 +191,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Amberlynn Valley",
-        "description": "<b>Amberlynn Valley</b><br><a href=\"http://durhamhoods.com/amberlynn-valley/\">Map</a>"
+        "name": "Amberlynn Valley"
       },
       "geometry": {
         "type": "Polygon",
@@ -333,8 +329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "American Village",
-        "description": "<b>American Village</b><br><a href=\"http://durhamhoods.com/american-village/\">Map</a>"
+        "name": "American Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -487,8 +482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Anderson St. / Wrightwood Park",
-        "description": "<b>Anderson St. / Wrightwood Park</b><br><a href=\"http://durhamhoods.com/anderson-st-wrightwood-park/\">Map</a>"
+        "name": "Anderson St. / Wrightwood Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -1069,8 +1063,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Artisan at Brightleaf",
-        "description": "<a href=\"http://durhamhoods.com/artisan-at-brightleaf/\" target=\"_blank\">http://durhamhoods.com/artisan-at-brightleaf/</a>"
+        "name": "Artisan at Brightleaf"
       },
       "geometry": {
         "type": "Polygon",
@@ -1139,8 +1132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ashley Forest",
-        "description": "<b>Ashley Forest</b><br><a href=\"http://durhamhoods.com/ashley-forest/\">Map</a>"
+        "name": "Ashley Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -1205,8 +1197,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ashton Hall",
-        "description": "<a href=\"http://durhamhoods.com/ashton-hall/\" target=\"_blank\">http://durhamhoods.com/ashton-hall/</a>"
+        "name": "Ashton Hall"
       },
       "geometry": {
         "type": "Polygon",
@@ -1583,8 +1574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Auburn Hills",
-        "description": "<b>Auburn Hills</b><br><a href=\"http://durhamhoods.com/auburn-hills/\">Map</a>"
+        "name": "Auburn Hills"
       },
       "geometry": {
         "type": "Polygon",
@@ -1669,8 +1659,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Auburn Square",
-        "description": "<b>Auburn Square</b><br><a href=\"http://durhamhoods.com/auburn-square/\">Map</a>"
+        "name": "Auburn Square"
       },
       "geometry": {
         "type": "Polygon",
@@ -1747,8 +1736,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Auburn Park",
-        "description": "<b>Auburn Park</b><br><a href=\"http://durhamhoods.com/auburn-park/\">Map</a>"
+        "name": "Auburn Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -1829,8 +1817,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Audubon Park",
-        "description": "<b>Audubon Park</b><br><a href=\"http://durhamhoods.com/audubon-park/\">Map</a>"
+        "name": "Audubon Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -1964,8 +1951,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Barclay to Sandlewood",
-        "description": "<b>Barclay to Sandlewood</b><br><a href=\"http://durhamhoods.com/barclay-to-sandlewood/\">Map</a>"
+        "name": "Barclay to Sandlewood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2062,8 +2048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bennet Place",
-        "description": "<b>Bennet Place</b><br><a href=\"http://durhamhoods.com/bennet-place/\">Map</a>"
+        "name": "Bennet Place"
       },
       "geometry": {
         "type": "Polygon",
@@ -2100,8 +2085,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Belcrest",
-        "description": "<b>Belcrest</b><br><a href=\"http://durhamhoods.com/belcrest/\">Map</a>"
+        "name": "Belcrest"
       },
       "geometry": {
         "type": "Polygon",
@@ -2166,8 +2150,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bent Creek / Woodberry Forest",
-        "description": "<b>Bent Creek / Woodberry Forest</b><br><a href=\"http://durhamhoods.com/bent-creek-woodberry-forest/\">Map</a>"
+        "name": "Bent Creek / Woodberry Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -2264,8 +2247,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bluffs of the Eno",
-        "description": "<b>Bluffs of the Eno</b><br><a href=\"http://durhamhoods.com/bluffs-of-the-eno/\">Map</a>"
+        "name": "Bluffs of the Eno"
       },
       "geometry": {
         "type": "Polygon",
@@ -2306,8 +2288,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bon Air Avenue",
-        "description": "<b>Bon Air Avenue</b><br><a href=\"http://durhamhoods.com/bon-air-avenue/\">Map</a>"
+        "name": "Bon Air Avenue"
       },
       "geometry": {
         "type": "Polygon",
@@ -2372,8 +2353,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bradbury Glen",
-        "description": "<b>Bradbury Glen</b><br><a href=\"http://durhamhoods.com/bradbury-glen/\">Map</a>"
+        "name": "Bradbury Glen"
       },
       "geometry": {
         "type": "Polygon",
@@ -2414,8 +2394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bradbury Trace",
-        "description": "<b>Bradbury Trace</b><br><a href=\"http://durhamhoods.com/bradbury-trace/\">Map</a>"
+        "name": "Bradbury Trace"
       },
       "geometry": {
         "type": "Polygon",
@@ -2962,8 +2941,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brandon Ridge",
-        "description": "<b>Brandon Ridge</b><br><a href=\"http://durhamhoods.com/brandon-ridge/\">Map</a>"
+        "name": "Brandon Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -3028,8 +3006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Briarcliff",
-        "description": "<b>Briarcliff</b><br><a href=\"http://durhamhoods.com/briarcliff/\">Map</a>"
+        "name": "Briarcliff"
       },
       "geometry": {
         "type": "Polygon",
@@ -3154,8 +3131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brightleaf at the Park",
-        "description": "<a href=\"http://durhamhoods.com/brightleaf-at-the-park/\" target=\"_blank\">http://durhamhoods.com/brightleaf-at-the-park/</a>"
+        "name": "Brightleaf at the Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -3369,8 +3345,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Buck Crossing",
-        "description": "<b>Buck Crossing</b><br><a href=\"http://durhamhoods.com/buck-crossing/\">Map</a>"
+        "name": "Buck Crossing"
       },
       "geometry": {
         "type": "Polygon",
@@ -3407,8 +3382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Burch Avenue",
-        "description": "<b>Burch Avenue</b><br><a href=\"http://durhamhoods.com/burch-avenue/\">Map</a>"
+        "name": "Burch Avenue"
       },
       "geometry": {
         "type": "Polygon",
@@ -3555,8 +3529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cameron Woods",
-        "description": "<b>Cameron Woods</b><br><a href=\"http://durhamhoods.com/cameron-woods/\">Map</a>"
+        "name": "Cameron Woods"
       },
       "geometry": {
         "type": "Polygon",
@@ -3637,8 +3610,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cardinal Lake",
-        "description": "<b>Cardinal Lake</b><br><a href=\"http://durhamhoods.com/cardinal-lake/\">Map</a>"
+        "name": "Cardinal Lake"
       },
       "geometry": {
         "type": "Polygon",
@@ -3743,8 +3715,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Carillon Forest",
-        "description": "<b>Carillon Forest</b><br><a href=\"http://durhamhoods.com/carillon-forest/\">Map</a>"
+        "name": "Carillon Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -3789,8 +3760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Central Park",
-        "description": "<b>Central Park</b><br><a href=\"http://durhamhoods.com/central-park/\">Map</a>"
+        "name": "Central Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -3871,8 +3841,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chancellor's Ridge",
-        "description": "<b>Chancellor's Ridge</b><br><a href=\"http://durhamhoods.com/chancellors-ridge/\">Map</a>"
+        "name": "Chancellor's Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -3945,8 +3914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chapel Hill Road",
-        "description": "<b>Chapel Hill Road</b><br><a href=\"http://durhamhoods.com/chapell-hill-road/\">Map</a>"
+        "name": "Chapel Hill Road"
       },
       "geometry": {
         "type": "Polygon",
@@ -4043,8 +4011,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chelsea Meadows",
-        "description": "<b>Chelsea Meadows</b><br><a href=\"http://durhamhoods.com/chelsea-meadows/\">Map</a>"
+        "name": "Chelsea Meadows"
       },
       "geometry": {
         "type": "Polygon",
@@ -4101,8 +4068,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cleveland-Holloway",
-        "description": "<b>Cleveland-Holloway</b><br><a href=\"http://durhamhoods.com/cleveland-holloway/\">Map</a>"
+        "name": "Cleveland-Holloway"
       },
       "geometry": {
         "type": "Polygon",
@@ -4255,8 +4221,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colchester",
-        "description": "<b>Colchester</b><br><a href=\"http://durhamhoods.com/colchester/\">Map</a>"
+        "name": "Colchester"
       },
       "geometry": {
         "type": "Polygon",
@@ -4293,8 +4258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cole Mill Road",
-        "description": "<b>Cole Mill Road</b><br><a href=\"http://durhamhoods.com/cole-mill-road/\">Map</a>"
+        "name": "Cole Mill Road"
       },
       "geometry": {
         "type": "Polygon",
@@ -5349,8 +5313,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colonial Village",
-        "description": "<b>Colonial Village</b><br><a href=\"http://durhamhoods.com/colonial-village/\">Map</a>"
+        "name": "Colonial Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -5527,8 +5490,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colony Park",
-        "description": "<b>Colony Park</b><br><a href=\"http://durhamhoods.com/colony-park/\">Map</a>"
+        "name": "Colony Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -5617,8 +5579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colony Woods",
-        "description": "<b>Colony Woods</b><br><a href=\"http://durhamhoods.com/colony-woods/\">Map</a>"
+        "name": "Colony Woods"
       },
       "geometry": {
         "type": "Polygon",
@@ -5707,8 +5668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colvard Farms",
-        "description": "<bColvard Farms></b><br><a href=\"http://durhamhoods.com/colvard-farms/\">Map</a>"
+        "name": "Colvard Farms"
       },
       "geometry": {
         "type": "Polygon",
@@ -5813,8 +5773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Copper Creek",
-        "description": "<b>Copper Creek</b><br><a href=\"http://durhamhoods.com/copper-creek/\">Map</a>"
+        "name": "Copper Creek"
       },
       "geometry": {
         "type": "Polygon",
@@ -5871,8 +5830,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Country Club Heights",
-        "description": "<b>Country Club Heights</b><br><a href=\"http://durhamhoods.com/country-club-heights/\">Map</a>"
+        "name": "Country Club Heights"
       },
       "geometry": {
         "type": "Polygon",
@@ -5961,8 +5919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cranford Road",
-        "description": "<b>Cranford Road</b><br><a href=\"http://durhamhoods.com/cranford-road/\">Map</a>"
+        "name": "Cranford Road"
       },
       "geometry": {
         "type": "Polygon",
@@ -6047,8 +6004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crest Street",
-        "description": "<b>Crest Street</b><br><a href=\"http://durhamhoods.com/crest-street/\">Map</a>"
+        "name": "Crest Street"
       },
       "geometry": {
         "type": "Polygon",
@@ -6109,8 +6065,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Croasdaile",
-        "description": "<b>Croasdaile</b><br><a href=\"http://durhamhoods.com/croasdaile/\">Map</a>"
+        "name": "Croasdaile"
       },
       "geometry": {
         "type": "Polygon",
@@ -6243,8 +6198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Croasdaile Farm",
-        "description": "<a href=\"http://durhamhoods.com/croasdaile-farm/\" target=\"_blank\">http://durhamhoods.com/croasdaile-farm/</a>"
+        "name": "Croasdaile Farm"
       },
       "geometry": {
         "type": "Polygon",
@@ -6457,8 +6411,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Croasdaile Village",
-        "description": "<a href=\"http://durhamhoods.com/croasdaile-village/\" target=\"_blank\">http://durhamhoods.com/croasdaile-village/</a>"
+        "name": "Croasdaile Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -6535,8 +6488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crooked Creek",
-        "description": "<b>Crooked Creek</b><br><a href=\"http://durhamhoods.com/crooked-creek/\">Map</a>"
+        "name": "Crooked Creek"
       },
       "geometry": {
         "type": "Polygon",
@@ -6613,8 +6565,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cross Timbers",
-        "description": "<b>Cross Timbers</b><br><a href=\"http://durhamhoods.com/cross-timbers/\">Map</a>"
+        "name": "Cross Timbers"
       },
       "geometry": {
         "type": "Polygon",
@@ -6651,8 +6602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crown Point",
-        "description": "<b>Crown Point</b><br><a href=\"http://durhamhoods.com/crown-point/\">Map</a>"
+        "name": "Crown Point"
       },
       "geometry": {
         "type": "Polygon",
@@ -6741,8 +6691,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Darby Glen",
-        "description": "<b>Darby Glen</b><br><a href=\"http://durhamhoods.com/darby-glen/\">Map</a>"
+        "name": "Darby Glen"
       },
       "geometry": {
         "type": "Polygon",
@@ -6791,8 +6740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Deer Forest",
-        "description": "<a href=\"http://durhamhoods.com/deer-forest/\" target=\"_blank\">http://durhamhoods.com/deer-forest/</a>"
+        "name": "Deer Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -6881,8 +6829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dixon Road Area",
-        "description": "<b>Dixon Road Area</b><br><a href=\"http://durhamhoods.com/dixon-road-area/\">Map</a>"
+        "name": "Dixon Road Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -7031,8 +6978,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Downing Creek",
-        "description": "<b>Downing Creek</b><br><a href=\"http://durhamhoods.com/downing-creek/\">Map</a>"
+        "name": "Downing Creek"
       },
       "geometry": {
         "type": "Polygon",
@@ -7141,8 +7087,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Downtown",
-        "description": "<b>Downtown</b><br><a href=\"http://durhamhoods.com/downtown/\">Map</a>"
+        "name": "Downtown"
       },
       "geometry": {
         "type": "Polygon",
@@ -7367,8 +7312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Duke East Campus",
-        "description": "<b>Duke East Campus</b><br><a href=\"http://durhamhoods.com/duke-east-campus/\">Map</a>"
+        "name": "Duke East Campus"
       },
       "geometry": {
         "type": "Polygon",
@@ -7457,8 +7401,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Duke Forest",
-        "description": "<b>Duke Forest</b><br><a href=\"http://durhamhoods.com/duke-forest/\">Map</a>"
+        "name": "Duke Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -7675,8 +7618,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Duke Homestead",
-        "description": "<b>Duke Homestead</b><br><a href=\"http://durhamhoods.com/duke-homestead/\">Map</a>"
+        "name": "Duke Homestead"
       },
       "geometry": {
         "type": "Polygon",
@@ -7809,8 +7751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Duke Manor Apartments",
-        "description": "<b>Duke Manor Apartments</b><br><a href=\"http://durhamhoods.com/duke-manor-apartments/\">Map</a>"
+        "name": "Duke Manor Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -7895,8 +7836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Duke Park",
-        "description": "<b>Duke Park</b><br><a href=\"http://durhamhoods.com/duke-park/\">Map</a>"
+        "name": "Duke Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -8121,8 +8061,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Duke West Campus",
-        "description": "<b>Duke West Campus</b><br><a href=\"http://durhamhoods.com/duke-west-campus/\">Map</a>"
+        "name": "Duke West Campus"
       },
       "geometry": {
         "type": "Polygon",
@@ -8387,8 +8326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eagle's Pointe",
-        "description": "<b>Eagle's Pointe</b><br><a href=\"http://durhamhoods.com/eagles-pointe/\">Map</a>"
+        "name": "Eagle's Pointe"
       },
       "geometry": {
         "type": "Polygon",
@@ -8437,8 +8375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eastway Village",
-        "description": "<b>Eastway Village</b><br><a href=\"http://durhamhoods.com/eastway-village/\">Map</a>"
+        "name": "Eastway Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -8471,8 +8408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eastwood Park",
-        "description": "<b>Eastwood Park</b><br><a href=\"http://durhamhoods.com/eastwood-park/\">Map</a>"
+        "name": "Eastwood Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -8517,8 +8453,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Edgemont",
-        "description": "<b>Edgemont</b><br><a href=\"http://durhamhoods.com/edgemont/\">Map</a>"
+        "name": "Edgemont"
       },
       "geometry": {
         "type": "Polygon",
@@ -8623,8 +8558,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elm Grove",
-        "description": "<a href=\"http://durhamhoods.com/elm-grove/\" target=\"_blank\">http://durhamhoods.com/elm-grove/</a>"
+        "name": "Elm Grove"
       },
       "geometry": {
         "type": "Polygon",
@@ -8713,8 +8647,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Emorywood Estates",
-        "description": "<b>Emorywood Estates</b><br><a href=\"http://durhamhoods.com/emorywood-estates/\">Map</a>"
+        "name": "Emorywood Estates"
       },
       "geometry": {
         "type": "Polygon",
@@ -8763,8 +8696,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eno Commons",
-        "description": "<b>Eno Commons</b><br><a href=\"http://durhamhoods.com/eno-commons/\">Map</a>"
+        "name": "Eno Commons"
       },
       "geometry": {
         "type": "Polygon",
@@ -8809,8 +8741,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eno Trace",
-        "description": "<b>Eno Trace</b><br><a href=\"http://durhamhoods.com/eno-trace/\">Map</a>"
+        "name": "Eno Trace"
       },
       "geometry": {
         "type": "Polygon",
@@ -8903,8 +8834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Everwood",
-        "description": "<b>Everwood</b><br><a href=\"http://durhamhoods.com/everwood/\">Map</a>"
+        "name": "Everwood"
       },
       "geometry": {
         "type": "Polygon",
@@ -8949,8 +8879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fairfield",
-        "description": "<b>Fairfield</b><br><a href=\"http://durhamhoods.com/fairfield/\">Map</a>"
+        "name": "Fairfield"
       },
       "geometry": {
         "type": "Polygon",
@@ -9051,8 +8980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Falconbridge",
-        "description": "<b>Falconbridge</b><br><a href=\"http://durhamhoods.com/falconbridge/\">Map</a>"
+        "name": "Falconbridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -9153,8 +9081,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fieldstone by the Eno",
-        "description": "<b>Fieldstone by the Eno</b><br><a href=\"http://durhamhoods.com/fieldstone-by-the-eno/\">Map</a>"
+        "name": "Fieldstone by the Eno"
       },
       "geometry": {
         "type": "Polygon",
@@ -9251,8 +9178,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Five Oaks",
-        "description": "<b>Five Oaks</b><br><a href=\"http://durhamhoods.com/five-oaks/\">Map</a>"
+        "name": "Five Oaks"
       },
       "geometry": {
         "type": "Polygon",
@@ -9341,8 +9267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Five Oaks 4100",
-        "description": "<b>Five Oaks 4100</b><br><a href=\"http://durhamhoods.com/five-oaks-4100/\">Map</a>"
+        "name": "Five Oaks 4100"
       },
       "geometry": {
         "type": "Polygon",
@@ -9383,8 +9308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Folkstone",
-        "description": "<b>Folkstone</b><br><a href=\"http://durhamhoods.com/folkstone/\">Map</a>"
+        "name": "Folkstone"
       },
       "geometry": {
         "type": "Polygon",
@@ -9518,8 +9442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Forest Hills",
-        "description": "<b>Forest Hills</b><br><a href=\"http://durhamhoods.com/forest-hills/\">Map</a>"
+        "name": "Forest Hills"
       },
       "geometry": {
         "type": "Polygon",
@@ -9724,8 +9647,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Forest Oaks",
-        "description": "<b>Forest Oaks</b><br><a href=\"http://durhamhoods.com/forest-oaks/\">Map</a>"
+        "name": "Forest Oaks"
       },
       "geometry": {
         "type": "Polygon",
@@ -9770,8 +9692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fortune's Ridge",
-        "description": "<b>Fortune's Ridge</b><br><a href=\"http://durhamhoods.com/fortunes-ridge/\">Map</a>"
+        "name": "Fortune's Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -9932,8 +9853,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fox Run",
-        "description": "<b>Fox Run</b><br><a href=\"http://durhamhoods.com/fox-run/\">Map</a>"
+        "name": "Fox Run"
       },
       "geometry": {
         "type": "Polygon",
@@ -10050,8 +9970,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Franklin Village",
-        "description": "<b>Franklin Village</b><br><a href=\"http://durhamhoods.com/franklin-village/\">Map</a>"
+        "name": "Franklin Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -10084,8 +10003,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Garret Farms - Porchlight / Hartley",
-        "description": "<b>Garret Farms - Porchlight / Hartley</b><br><a href=\"http://durhamhoods.com/garret-farms-porchlight-hartley/\">Map</a>"
+        "name": "Garret Farms - Porchlight / Hartley"
       },
       "geometry": {
         "type": "Polygon",
@@ -10146,8 +10064,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gatewood Forest",
-        "description": "<b>Gatewood Forest</b><br><a href=\"http://durhamhoods.com/gatewood-forest/\">Map</a>"
+        "name": "Gatewood Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -10200,8 +10117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glennstone",
-        "description": "<b>Glennstone</b><br><a href=\"http://durhamhoods.com/glennstone/\">Map</a>"
+        "name": "Glennstone"
       },
       "geometry": {
         "type": "Polygon",
@@ -10350,8 +10266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Golden Belt",
-        "description": "<b>Golden Belt</b><br><a href=\"http://durhamhoods.com/golden-belt/\">Map</a>"
+        "name": "Golden Belt"
       },
       "geometry": {
         "type": "Polygon",
@@ -10448,8 +10363,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grande Park",
-        "description": "<b>Grande Park</b><br><a href=\"http://durhamhoods.com/grande-park/\">Map</a>"
+        "name": "Grande Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -10506,8 +10420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Green Mill",
-        "description": "<b>Green Mill</b><br><a href=\"http://durhamhoods.com/green-mill/\">Map</a>"
+        "name": "Green Mill"
       },
       "geometry": {
         "type": "Polygon",
@@ -10568,8 +10481,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grove Park",
-        "description": "<b>Grove Park</b><br><a href=\"http://durhamhoods.com/grove-park/\">Map</a>"
+        "name": "Grove Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -10726,8 +10638,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Heather Glen",
-        "description": "<b>Heather Glen</b><br><a href=\"http://durhamhoods.com/heather-glen/\">Map</a>"
+        "name": "Heather Glen"
       },
       "geometry": {
         "type": "Polygon",
@@ -10848,8 +10759,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Highgate",
-        "description": "<b>Highgate</b><br><a href=\"http://durhamhoods.com/highgate/\">Map</a>"
+        "name": "Highgate"
       },
       "geometry": {
         "type": "Polygon",
@@ -10910,8 +10820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hillandale Commons",
-        "description": "<a href=\"http://durhamhoods.com/hillandale-commons/\" target=\"_blank\">http://durhamhoods.com/hillandale-commons/</a>"
+        "name": "Hillandale Commons"
       },
       "geometry": {
         "type": "Polygon",
@@ -10972,8 +10881,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Holston Meadows",
-        "description": "<b>Holston Meadows</b><br><a href=\"http://durhamhoods.com/holston-meadows/\">Map</a>"
+        "name": "Holston Meadows"
       },
       "geometry": {
         "type": "Polygon",
@@ -11014,8 +10922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Homeplace II",
-        "description": "<b>Homeplace II</b><br><a href=\"http://durhamhoods.com/homeplace-ii/\">Map</a>"
+        "name": "Homeplace II"
       },
       "geometry": {
         "type": "Polygon",
@@ -11076,8 +10983,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hope Valley",
-        "description": "<b>Hope Valley</b><br><a href=\"http://durhamhoods.com/hope-valley/\">Map</a>"
+        "name": "Hope Valley"
       },
       "geometry": {
         "type": "Polygon",
@@ -11318,8 +11224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hope Valley Downs",
-        "description": "<b>Hope Valley Downs</b><br><a href=\"http://durhamhoods.com/hope-valley-downs/\">Map</a>"
+        "name": "Hope Valley Downs"
       },
       "geometry": {
         "type": "Polygon",
@@ -11388,8 +11293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hope Valley Farms",
-        "description": "<b>Hope Valley Farms</b><br><a href=\"http://durhamhoods.com/hope-valley-farms/\">Map</a>"
+        "name": "Hope Valley Farms"
       },
       "geometry": {
         "type": "Polygon",
@@ -11759,8 +11663,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hope Valley Forest",
-        "description": "<b>Hope Valley Forest</b><br><a href=\"http://durhamhoods.com/hope-valley-forest/\">Map</a>"
+        "name": "Hope Valley Forest"
       },
       "geometry": {
         "type": "Polygon",
@@ -11845,8 +11748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hope Valley Green",
-        "description": "<b>Hope Valley Green</b><br><a href=\"http://durhamhoods.com/hope-valley-green/\">Map</a>"
+        "name": "Hope Valley Green"
       },
       "geometry": {
         "type": "Polygon",
@@ -11911,8 +11813,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hope Valley North",
-        "description": "<b>Hope Valley North</b><br><a href=\"http://durhamhoods.com/hope-valley-north/\">Map</a>"
+        "name": "Hope Valley North"
       },
       "geometry": {
         "type": "Polygon",
@@ -12021,8 +11922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Horton Hills",
-        "description": "<b>Horton Hills</b><br><a href=\"http://durhamhoods.com/horton-hills/\">Map</a>"
+        "name": "Horton Hills"
       },
       "geometry": {
         "type": "Polygon",
@@ -12200,8 +12100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Huntington Ridge",
-        "description": "<b>Huntington Ridge</b><br><a href=\"http://durhamhoods.com/huntington-ridge/\">Map</a>"
+        "name": "Huntington Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -12242,8 +12141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Inverness Drive",
-        "description": "<b>Inverness Drive</b><br><a href=\"http://durhamhoods.com/inverness-drive/\">Map</a>"
+        "name": "Inverness Drive"
       },
       "geometry": {
         "type": "Polygon",
@@ -12320,8 +12218,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Knollwood",
-        "description": "<b>Knollwood</b><br><a href=\"http://durhamhoods.com/knollwood/\">Map</a>"
+        "name": "Knollwood"
       },
       "geometry": {
         "type": "Polygon",
@@ -12386,8 +12283,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lake Park",
-        "description": "<b>Lake Park</b><br><a href=\"http://durhamhoods.com/lake-park/\">Map</a>"
+        "name": "Lake Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -12488,8 +12384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lakehurst",
-        "description": "<b>Lakehurst</b><br><a href=\"http://durhamhoods.com/lakehurst/\">Map</a>"
+        "name": "Lakehurst"
       },
       "geometry": {
         "type": "Polygon",
@@ -12602,8 +12497,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lakewood Park",
-        "description": "<b>Lakewood Park</b><br><a href=\"http://durhamhoods.com/lakewood-park/\">Map</a>"
+        "name": "Lakewood Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -12660,8 +12554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Landon Farms",
-        "description": "<b>Landon Farms</b><br><a href=\"http://durhamhoods.com/landon-farms/\">Map</a>"
+        "name": "Landon Farms"
       },
       "geometry": {
         "type": "Polygon",
@@ -12722,8 +12615,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lochaven Hills",
-        "description": "<b>Lochaven Hills</b><br><a href=\"http://durhamhoods.com/lochaven-hills/\">Map</a>"
+        "name": "Lochaven Hills"
       },
       "geometry": {
         "type": "Polygon",
@@ -12896,8 +12788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lochn'ora",
-        "description": "<b>Lochn'ora</b><br><a href=\"http://durhamhoods.com/lochnora/\">Map</a>"
+        "name": "Lochn'ora"
       },
       "geometry": {
         "type": "Polygon",
@@ -13022,8 +12913,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lochside",
-        "description": "<b>Lochside</b><br><a href=\"http://durhamhoods.com/lochside/\">Map</a>"
+        "name": "Lochside"
       },
       "geometry": {
         "type": "Polygon",
@@ -13112,8 +13002,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Long Meadow",
-        "description": "<b>Long Meadow</b><br><a href=\"http://durhamhoods.com/long-meadow/\">Map</a>"
+        "name": "Long Meadow"
       },
       "geometry": {
         "type": "Polygon",
@@ -13186,8 +13075,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lyon Park",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/lyon-park/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/lyon-park/</a></div>"
+        "name": "Lyon Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -13228,8 +13116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Marbry Landing",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/marbry-landing/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/marbry-landing/</a></div>"
+        "name": "Marbry Landing"
       },
       "geometry": {
         "type": "Polygon",
@@ -13334,8 +13221,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mary Dell",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/mary-dell/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/mary-dell/</a>"
+        "name": "Mary Dell"
       },
       "geometry": {
         "type": "Polygon",
@@ -13384,8 +13270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Meadows of Pagehurst",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/meadows-of-pagehurst/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/meadows-of-pagehurst/</a></div>"
+        "name": "Meadows of Pagehurst"
       },
       "geometry": {
         "type": "Polygon",
@@ -13426,8 +13311,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Merrick Moore",
-        "description": "<font face=\"arial\" size=\"2\"><a href=\"http://durhamhoods.com/neighborhoods/merrick-moore/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/merrick-moore/</a></font>"
+        "name": "Merrick Moore"
       },
       "geometry": {
         "type": "Polygon",
@@ -13512,8 +13396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Milan Woods",
-        "description": "<font face=\"arial\" size=\"2\"><a href=\"http://durhamhoods.com/neighborhoods/milan-woods/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/milan-woods/</a></font>"
+        "name": "Milan Woods"
       },
       "geometry": {
         "type": "Polygon",
@@ -13582,8 +13465,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Morehead Hill",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/morehead-hill/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/morehead-hill/</a></div>"
+        "name": "Morehead Hill"
       },
       "geometry": {
         "type": "Polygon",
@@ -13716,8 +13598,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Newhall Village",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/newhall-village/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/newhall-village/</a></div>"
+        "name": "Newhall Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -14129,8 +14010,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Carolina Central University",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/north-carolina-central-university/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/north-carolina-central-university/</a></div>"
+        "name": "North Carolina Central University"
       },
       "geometry": {
         "type": "Polygon",
@@ -14295,8 +14175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Northeast Hills",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/northeast-hills/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/northeast-hills/</a></div>"
+        "name": "Northeast Hills"
       },
       "geometry": {
         "type": "Polygon",
@@ -14401,8 +14280,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Northgate Park",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/northgate-park/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/northgate-park/</a></div>"
+        "name": "Northgate Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -14671,8 +14549,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oak Grove Community",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/oak-grove-community\" target=\"_blank\"> http://durhamhoods.com/neighborhoods/neighborhoods/oak-grove-community</a></div>"
+        "name": "Oak Grove Community"
       },
       "geometry": {
         "type": "Polygon",
@@ -14769,8 +14646,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oakhaven",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/oakhaven/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/oakhaven/</a></div>"
+        "name": "Oakhaven"
       },
       "geometry": {
         "type": "Polygon",
@@ -14823,8 +14699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oakhurst",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/oakhurst/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/oakhurst/</a></div>"
+        "name": "Oakhurst"
       },
       "geometry": {
         "type": "Polygon",
@@ -14901,8 +14776,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Old East Durham",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/old-east-durham/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/old-east-durham/</a></div>"
+        "name": "Old East Durham"
       },
       "geometry": {
         "type": "Polygon",
@@ -14991,8 +14865,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Old Farm",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/old-farm/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/old-farm/</a></div>"
+        "name": "Old Farm"
       },
       "geometry": {
         "type": "Polygon",
@@ -15141,8 +15014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Old Five Points",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/old-five-points/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/old-five-points/</a></div>"
+        "name": "Old Five Points"
       },
       "geometry": {
         "type": "Polygon",
@@ -15267,8 +15139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Old North Durham",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/old-north-durham/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/old-north-durham/</a><a href=\"http://durhamhoods.com/neighborhoods/old-north-durham/\" target=\"_blank\"></a></div>"
+        "name": "Old North Durham"
       },
       "geometry": {
         "type": "Polygon",
@@ -15746,8 +15617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Omah Street",
-        "description": "<a href=\"http://durhamhoods.com/omah-street/\"\ntarget=\"_blank\">http://durhamhoods.com/omah-street/\"</a>"
+        "name": "Omah Street"
       },
       "geometry": {
         "type": "Polygon",
@@ -15836,8 +15706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Orchard Ridge",
-        "description": "<a href=\"http://durhamhoods.com/wynterfield/\" target=\"_blank\">http://durhamhoods.com/orchard-ridge/</a>"
+        "name": "Orchard Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -15906,8 +15775,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Orchid Court",
-        "description": "<a href=\"http://durhamhoods.com/orchid-court/\" target=\"_blank\">http://durhamhoods.com/orchid-court/</a>"
+        "name": "Orchid Court"
       },
       "geometry": {
         "type": "Polygon",
@@ -16009,8 +15877,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Parc at University",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/parc-at-university/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/parc-at-university/</a></div>"
+        "name": "Parc at University"
       },
       "geometry": {
         "type": "Polygon",
@@ -16075,8 +15942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Park Ridge",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/park-ridge/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/park-ridge/</a></div>"
+        "name": "Park Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -16133,8 +15999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Parkside",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/parkside/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/parkside/</a></div>"
+        "name": "Parkside"
       },
       "geometry": {
         "type": "Polygon",
@@ -16295,8 +16160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Parkwood",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/parkwood/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/parkwood/</a>"
+        "name": "Parkwood"
       },
       "geometry": {
         "type": "Polygon",
@@ -16553,8 +16417,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Penrith",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/penrith/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/penrith/</a></div>"
+        "name": "Penrith"
       },
       "geometry": {
         "type": "Polygon",
@@ -16699,8 +16562,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Placid Valley",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/placid-valley/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/placid-valley/</a>"
+        "name": "Placid Valley"
       },
       "geometry": {
         "type": "Polygon",
@@ -16781,8 +16643,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pleasant Drive",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/pleasant-drive/\" target=\"_blank\">http://durhamhoods.com/pleasant-drive/</a></div>"
+        "name": "Pleasant Drive"
       },
       "geometry": {
         "type": "Polygon",
@@ -16976,8 +16837,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Preston Woods",
-        "description": "<font face=\"arial\" size=\"2\"><a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/preston-woods/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/neighborhoods/preston-woods/</a></font>"
+        "name": "Preston Woods"
       },
       "geometry": {
         "type": "Polygon",
@@ -17046,8 +16906,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Providence Ridge",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/providence-ridge/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/providence-ridge/</a></div>"
+        "name": "Providence Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -17092,8 +16951,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ravenstone",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/ravenstone/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/ravenstone/</a></div>"
+        "name": "Ravenstone"
       },
       "geometry": {
         "type": "Polygon",
@@ -17182,8 +17040,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ridgefield",
-        "description": "<a href=\"http://durhamhoods.com/ridgefield/\" target=\"_blank\">http://durhamhoods.com/ridgefield/</a>"
+        "name": "Ridgefield"
       },
       "geometry": {
         "type": "Polygon",
@@ -17753,8 +17610,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Scarsdale Village",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/scarsdale-village/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/scarsdale-village/</a></div>"
+        "name": "Scarsdale Village"
       },
       "geometry": {
         "type": "Polygon",
@@ -17903,8 +17759,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sheridan Drive",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/sheridan-drive/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/sheridan-drive/</a>"
+        "name": "Sheridan Drive"
       },
       "geometry": {
         "type": "Polygon",
@@ -17965,8 +17820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Southampton",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/southampton/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/southampton/</a></div>"
+        "name": "Southampton"
       },
       "geometry": {
         "type": "Polygon",
@@ -18015,8 +17869,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Southpoint Manor",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/southpoint-manor/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/southpoint-manor/</a></div>"
+        "name": "Southpoint Manor"
       },
       "geometry": {
         "type": "Polygon",
@@ -18089,8 +17942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Southside / St. Teresa",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/southside-st-teresa/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/southside-st-teresa/</a></div>"
+        "name": "Southside / St. Teresa"
       },
       "geometry": {
         "type": "Polygon",
@@ -18231,8 +18083,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Terrace at Auburn",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/south-terrace-at-auburn/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/south-terrace-at-auburn/</a></div>"
+        "name": "South Terrace at Auburn"
       },
       "geometry": {
         "type": "Polygon",
@@ -18297,8 +18148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Spring Valley",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/spring-valley/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/spring-valley/</a></div>"
+        "name": "Spring Valley"
       },
       "geometry": {
         "type": "Polygon",
@@ -18480,8 +18330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stadium Heights",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/stadium-heights/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/stadium-heights/</a></div>"
+        "name": "Stadium Heights"
       },
       "geometry": {
         "type": "Polygon",
@@ -18614,8 +18463,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stephen's Woods",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/stephens-woods/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/stephens-woods/</a>"
+        "name": "Stephen's Woods"
       },
       "geometry": {
         "type": "Polygon",
@@ -18720,8 +18568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sterling Ridge",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/sterling-ridge/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/sterling-ridge/</a></div>"
+        "name": "Sterling Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -18774,8 +18621,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stillwood",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/stillwood/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/stillwood/</a></div>"
+        "name": "Stillwood"
       },
       "geometry": {
         "type": "Polygon",
@@ -18828,8 +18674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stirrup Creek",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/stirrup-creek/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/stirrup-creek/</a></div>"
+        "name": "Stirrup Creek"
       },
       "geometry": {
         "type": "Polygon",
@@ -18902,8 +18747,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stonehill Estates",
-        "description": "<a href=\"http://durhamhoods.com/stonehill-estates/\" target=\"_blank\">http://durhamhoods.com/stonehill-estates/</a>"
+        "name": "Stonehill Estates"
       },
       "geometry": {
         "type": "Polygon",
@@ -19152,8 +18996,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stratford Lakes",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/stratford-lakes/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/stratford-lakes/</a></div>"
+        "name": "Stratford Lakes"
       },
       "geometry": {
         "type": "Polygon",
@@ -19238,8 +19081,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Summer Meadow",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/summer-meadow/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/summer-meadow/</a></div>"
+        "name": "Summer Meadow"
       },
       "geometry": {
         "type": "Polygon",
@@ -19356,8 +19198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sunningdale",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/sunningdale/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/sunningdale/</a></div>"
+        "name": "Sunningdale"
       },
       "geometry": {
         "type": "Polygon",
@@ -19414,8 +19255,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Surrey Green",
-        "description": "http://durhamhoods.com/neighborhoods/neighborhoods/surrey-green/"
+        "name": "Surrey Green"
       },
       "geometry": {
         "type": "Polygon",
@@ -19476,8 +19316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Swallows Ridge",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/swallows-ridge/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/swallows-ridge/</a></div>"
+        "name": "Swallows Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -19526,8 +19365,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Swann's Mill",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/swanns-mill/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/swanns-mill/</a></div>"
+        "name": "Swann's Mill"
       },
       "geometry": {
         "type": "Polygon",
@@ -19608,8 +19446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Taylor Estates",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/taylor-estates/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/taylor-estates/</a></div>"
+        "name": "Taylor Estates"
       },
       "geometry": {
         "type": "Polygon",
@@ -19719,8 +19556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The Hills at Southpoint",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/the-hills-at-southpoint/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/neighborhoods/the-hills-at-southpoint/</a>"
+        "name": "The Hills at Southpoint"
       },
       "geometry": {
         "type": "Polygon",
@@ -19825,8 +19661,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The Landing at Southpoint",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/the-landing-at-southpoint/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/neighborhoods/the-landing-at-southpoint/</a>"
+        "name": "The Landing at Southpoint"
       },
       "geometry": {
         "type": "Polygon",
@@ -19871,8 +19706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Treyburn",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/treyburn/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/neighborhoods/treyburn/</a>"
+        "name": "Treyburn"
       },
       "geometry": {
         "type": "Polygon",
@@ -20097,8 +19931,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trinity Commons",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/neighborhoods/trinity-commons/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/neighborhoods/trinity-commons/</a></div>"
+        "name": "Trinity Commons"
       },
       "geometry": {
         "type": "Polygon",
@@ -20131,8 +19964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trinity Heights",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/trinity-heights/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/trinity-heights/</a></div>"
+        "name": "Trinity Heights"
       },
       "geometry": {
         "type": "Polygon",
@@ -20173,8 +20005,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trinity Park",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/trinity-park/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/trinity-park/</a></div>"
+        "name": "Trinity Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -20357,8 +20188,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trotter Ridge",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/trotter-ridge/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/trotter-ridge/</a>"
+        "name": "Trotter Ridge"
       },
       "geometry": {
         "type": "Polygon",
@@ -20431,8 +20261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tuscaloosa-Lakewood",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/tuscaloosa-lakewood/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/tuscaloosa-lakewood/</a></div>"
+        "name": "Tuscaloosa-Lakewood"
       },
       "geometry": {
         "type": "Polygon",
@@ -20557,8 +20386,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Urban 900",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/urban-900/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/urban-900/</a>"
+        "name": "Urban 900"
       },
       "geometry": {
         "type": "Polygon",
@@ -20591,8 +20419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Valley Run",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/valley-run/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/valley-run/</a></div>"
+        "name": "Valley Run"
       },
       "geometry": {
         "type": "Polygon",
@@ -20689,8 +20516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Valleybrook",
-        "description": "<a href=\"http://durhamhoods.com/neighborhoods/valleybrook/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/valleybrook/</a>"
+        "name": "Valleybrook"
       },
       "geometry": {
         "type": "Polygon",
@@ -20771,8 +20597,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vantage Pointe",
-        "description": "<div dir=\"ltr\"><a href=\"http://durhamhoods.com/neighborhoods/vantage-pointe/\" target=\"_blank\">http://durhamhoods.com/neighborhoods/vantage-pointe/</a></div>"
+        "name": "Vantage Pointe"
       },
       "geometry": {
         "type": "Polygon",
