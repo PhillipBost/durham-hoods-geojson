@@ -2,7 +2,16 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
-|Hillandale Commons               |06/22/2015     |Added          |
+|Nancy Rhodes Creek               |06/25/2015     |Added          |
+|River's Edge                     |06/25/2015     |Added          |
+|Huckleberry Heights              |06/25/2015     |Added          |
+|Coles Pond                       |06/25/2015     |Added          |
+|Archer Woods                     |06/25/2015     |Added          |
+|Forest Acres                     |06/25/2015     |Added          |
+|Waterford                        |06/25/2015     |Borders Altered|
+|Cole Mill Road                   |06/25/2015     |Borders Altered|
+|Westwood Estates                 |06/25/2015     |Borders Altered|
+|Hillandale Commons               |06/24/2015     |Added          |
 |Watts Hosital-Hillandale         |06/24/2015     |Borders Altered|
 |Artisan at Brightleaf            |06/22/2015     |Added          |
 |Ashton Hall                      |06/22/2015     |Added          |
