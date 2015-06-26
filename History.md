@@ -2,6 +2,8 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Homeplace I                      |06/25/2015     |Added          |
+|Woodcroft                        |06/25/2015     |Borders Altered|
 |Nancy Rhodes Creek               |06/25/2015     |Added          |
 |River's Edge                     |06/25/2015     |Added          |
 |Huckleberry Heights              |06/25/2015     |Added          |
