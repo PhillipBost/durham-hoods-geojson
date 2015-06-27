@@ -2,6 +2,9 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Lattamoor                        |06/27/2015     |Added          |
+|Latta Woods                      |06/26/2015     |Added          |
+|Pine Valley                      |06/26/2015     |Added          |
 |Homeplace I                      |06/25/2015     |Added          |
 |Woodcroft                        |06/25/2015     |Borders Altered|
 |Nancy Rhodes Creek               |06/25/2015     |Added          |
