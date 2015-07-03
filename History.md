@@ -2,6 +2,7 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|River Forest                     |07/03/2015     |Added          |
 |Lattamoor                        |06/27/2015     |Added          |
 |Latta Woods                      |06/26/2015     |Added          |
 |Pine Valley                      |06/26/2015     |Added          |
