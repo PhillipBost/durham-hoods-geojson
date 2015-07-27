@@ -2,6 +2,14 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Long Meadow                      |07/26/2015     |Borders Altered|
+|Lyon Park                        |07/26/2015     |Borders Altered|
+|Forest Hills                     |07/26/2015     |Borders Altered|
+|Southside / St. Teresa           |07/26/2015     |Borders Altered|
+|West End                         |07/26/2015     |Borders Altered|
+|Morehead Hill                    |07/26/2015     |Borders Altered|
+|Downtown                         |07/26/2015     |Borders Altered|
+|Burch Avenue                     |07/26/2015     |Borders Altered|
 |Preston Avenue                   |07/21/2015     |Added          |
 |Scarsdale Village                |07/21/2015     |Borders Altered|
 |River Forest                     |07/03/2015     |Added          |
