@@ -2,6 +2,9 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Bon Air Avenue                   |11/10/2015     |Borders Altered|
+|Bragtown                         |11/10/2015     |Borders Altered|
+|Colonial Village                 |11/10/2015     |Borders Altered|
 |Long Meadow                      |07/26/2015     |Borders Altered|
 |Lyon Park                        |07/26/2015     |Borders Altered|
 |Forest Hills                     |07/26/2015     |Borders Altered|
