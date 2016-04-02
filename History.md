@@ -2,6 +2,7 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Carolina Arbors                  |04/02/2016     |Added          |
 |Bon Air Avenue                   |11/10/2015     |Borders Altered|
 |Bragtown                         |11/10/2015     |Borders Altered|
 |Colonial Village                 |11/10/2015     |Borders Altered|
