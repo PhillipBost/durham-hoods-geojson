@@ -2,6 +2,7 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Autumn Ridge                     |04/03/2016     |Added          |
 |Brightwood Trails                |04/02/2016     |Added          |
 |Townes at Brier Creek Crossing   |04/02/2016     |Added          |
 |Carolina Arbors                  |04/02/2016     |Added          |
