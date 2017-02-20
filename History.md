@@ -2,6 +2,7 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Settler's Point                  |02/19/2017     |Added          |
 |Wyndcross                        |04/03/2016     |Added          |
 |Wellington Forest                |04/03/2016     |Borders Altered|
 |Autumn Ridge                     |04/03/2016     |Added          |
