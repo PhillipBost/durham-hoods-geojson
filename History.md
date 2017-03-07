@@ -2,6 +2,7 @@ I don't have an accurate account of the first ~125 neighborhoods added in early 
 
 |Neighborhood                     | Date Changed  | Description   |
 |---------------------------------|:-------------:|:-------------:|
+|Unity Village                    |03/06/2017     |Added          |
 |Colony Hill                      |03/06/2017     |Added          |
 |The Commons                      |03/06/2017     |Added          |
 |Settler's Point                  |02/19/2017     |Added          |
